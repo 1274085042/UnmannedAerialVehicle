@@ -26,3 +26,8 @@ python main.py
 * Normalize features. 
 * Implement a sliding-window technique and use SVM classifier to search for UAV in images.
 * Run pipeline on a video stream and create a heat map of recurring detections frame by frame to reject outliers.
+
+
+
+[//]: # (Image References)
+[demo_gif]: ./unmanned_aerial_vehicle_video/result.gif

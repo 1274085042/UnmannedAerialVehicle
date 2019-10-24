@@ -1,7 +1,7 @@
 # Unmanned Aerial Vehicle Detection  
 ## A demo of UAV(Unmanned Aerial Vehicle) Detection System  
-[**Video UAV Detection**](./unmanned_aerial_vehicle_vedio/result.mp4)  
-[![gif_demo][demo_gif]](./unmanned_aerial_vehicle_vedio/result.mp4)
+[**Video UAV Detection**](https://github.com/1274085042/Unmanned_aerial_vehicle/blob/master/unmanned_aerial_vehicle_video/result.mp4)  
+[![gif_demo][demo_gif]](https://github.com/1274085042/Unmanned_aerial_vehicle/blob/master/unmanned_aerial_vehicle_video/result.mp4)
 _ _ _
 ## Code & Files  
 ### 1. My project includes the following files

@@ -75,7 +75,9 @@ the position of bounding box.
   
 ## Discussion  
 **Obviously, our method does not meet the requirement of real-time due to the fact of sliding window approach is time consuming!** We could use image downsampling, multi-threads, or GPU processing to improve the speed. But, there are probably a lot engineering work need to be done to make it running real-time. 
-  
+![][picture3]  
+
 [//]: # (Image References)
 [demo_gif]: ./unmanned_aerial_vehicle_video/result.gif
 [picture1]: ./examples/picture1.png
+[picture3]:./examples/picture3.png

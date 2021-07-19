@@ -1,4 +1,4 @@
-
+#coding=utf-8
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
@@ -36,7 +36,6 @@ def draw_thumbnails(img_cp, img, window_list, thumb_w=100, thumb_h=80, off_x=30,
 
 
 def draw_background_highlight(image, draw_img, w):
-
     mask = cv2.rectangle(np.copy(image), (0, 0), (w, 155), (0, 0, 0), thickness=cv2.FILLED)
     draw_img = cv2.addWeighted(src1=mask, alpha=0.3, src2=draw_img, beta=0.7, gamma=0)
     # plt.imshow( draw_img )

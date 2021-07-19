@@ -1,8 +1,4 @@
 #coding=utf-8
-# I am not responsible of this code.
-# They made me write it, against my will.
-# 下面的代码，我不负责。因为是他们逼我写的，违背了我的意愿。
-
 from moviepy.editor import VideoFileClip
 from svm_pipeline import *
 #import matplotlib.pyplot as plt
@@ -20,7 +16,6 @@ def get_filenames(rootdir):
     for filename in path_list:
         data.append(path.join(rootdir,filename))
     return data
-
 
 
 if __name__ == "__main__":
@@ -61,7 +56,3 @@ if __name__ == "__main__":
             plt.imshow( draw_img )
             plt.title( '%s'%(file), fontsize=10 )
             plt.show()
-
-
-
-
